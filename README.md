@@ -1,94 +1,136 @@
-## Hola 👋, Soy Nicolas A. Urbaez A!  
-  
+<div align="center">
 
-<a href="https://github.com/Nikoi18" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/nikoi18" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+# 👨‍💻 Nicolas A. Urbaez A.
 
+### Programador Full-Stack Python | Especialista en Arquitectura de Software & IA
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nicodev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikoi18)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikoi18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran.nick15@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34608898454)
+[![Llamadas](https://img.shields.io/badge/Llamadas-00897B?style=for-the-badge&logo=phone&logoColor=white)](tel:+34608898454)
 
-### Programador Full-Stack | Python & Next.js  
-Soy Nicolas A. Urbaez A., un Programador Full-Stack (Python & Next.js) apasionado por construir soluciones web robustas y escalables. Me especializo en la arquitectura de software de alta calidad y en la creación de código limpio, con un enfoque particular en la aplicación de Inteligencia Artificial para desarrollar productos más eficientes.
+</div>
 
-He aplicado estas habilidades en la práctica construyendo mi [portafolio personal](https://nicodev.com), una aplicación full-stack desarrollada desde cero con FastAPI y Next.js, donde demuestro el ciclo completo de vida de un proyecto, desde su concepción hasta su despliegue.
+---
 
-Actualmente busco aportar valor en un rol desafiante que combine el desarrollo web con la aplicación de tecnologías de IA.  
-  
+## 🚀 Sobre mí
 
-<br/>  
+Programador Full-Stack (Python & Next.js) apasionado por construir **soluciones web robustas y escalables**. Me enfoco en la **arquitectura de software de alta calidad** y la creación de **código limpio**, plasmando estas habilidades en mi portafolio personal [nicodev.com](https://nicodev.com), una aplicación full-stack desarrollada con FastAPI y Next.js.
 
+Busco aportar valor en un rol desafiante que combine el **desarrollo web con la aplicación de tecnologías de IA**, donde pueda seguir creciendo profesionalmente mientras contribuyo a proyectos innovadores.
 
-## Puntos Clave  
-<table><tr><td valign="top" width="50%">
+### 💡 Highlights
 
-- Actualmente estoy profundizando mis conocimientos a través de una **Especialización en Inteligencia Artificial** en Tokio School.  
-  
+- 🎓 **Especialización en Inteligencia Artificial** - Tokio School (2025)
+- 🏆 **2 años de experiencia** en desarrollo Full-Stack
+- 🔧 Experto en **Python, FastAPI, Next.js, TypeScript, Docker**
+- 🤖 Uso estratégico de **IAs generativas** para acelerar el desarrollo y mejorar la calidad del código
+- 📚 Arquitectura de Software, API RESTful, Testing (Unitario y de Integración), CI/CD, SCRUM/JIRA
 
-- Pregúntame sobre **Python, FastAPI, Next.js, TypeScript, Docker, PostgreSQL** y mejores prácticas en **Arquitectura de Software**.  
-  
+---
 
-- Dato curioso: Utilizo estratégicamente IAs generativas como mi copiloto en todo el ciclo de vida del software, desde la arquitectura hasta la depuración final.  
+## 🛠️ Stack Tecnológico
 
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-</td><td valign="top" width="50%">
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk5ZmF0eWJrdXQ0MHU4Yms3eWJuYnpxZjZmM2FndG8waDNqODJlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" align="left" height="" width="400" />  
+### Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</td></tr></table>  
+### Herramientas & Metodologías
+![API RESTful](https://img.shields.io/badge/API_RESTful-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=pytest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<br/>  
+### Inteligencia Artificial
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_4-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 
+---
 
-## Habilidades Técnicas 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-</div>  
+## 🎯 Proyectos Destacados
 
-<br/>  
+### 🌐 [Web Empresa - CMS Full-Stack & Portal Web Dinámico](https://github.com/Nikoi18/WebEmpresaFase1)
 
+**Arquitectura principal de un CMS empresarial completo**
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+Diseñé y construí una **API RESTful segura con FastAPI y JWT**, junto con un portal dinámico y panel de administración con **TypeScript**. Gestioné bases de datos **PostgreSQL** con migraciones **Alembic** y orquesté todo el entorno con **Docker**, asegurando un despliegue consistente y documentando el proceso para garantizar la calidad del proyecto.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikoi18&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+**Tecnologías:** Python, FastAPI, SQLAlchemy, Next.js, React, TypeScript, PostgreSQL, Docker, Docker Compose, JWT, Alembic
 
-</td><td valign="top" width="50%">
+🔗 Todo el ciclo de vida del proyecto fue potenciado mediante el **uso de IA generativa**, donde actué como arquitecto dirigiendo la implementación y validando el código.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoi18&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
+## 📊 Estadísticas de GitHub
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikoi18&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoi18&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180" />
+</p>
 
-  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikoi18&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="180" />
+</p>
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikoi18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
+</p>
 
-  
+---
 
-<br/>  
+## 🎓 Formación
 
+- 🎯 **Especialización en Inteligencia Artificial** - Tokio School, España (2025)
+- 💻 **Programador Python** - Tokio School, España (2024-2025)
+- 🎓 **TSU en Informática** - Universidad Ludovico Silva-Monagas, Venezuela (2013-2016)
 
-<br />
+### 📚 Cursos Complementarios en DevTalles y Udemy
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+
+![Python-Django](https://img.shields.io/badge/Python--Django-EC5252?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"La mejor manera de predecir el futuro es inventarlo"*
+
+**⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐**
+
+</div>
