@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre mí
 
-Programador Full-Stack (Python & Next.js) apasionado por construir **soluciones web robustas y escalables**. Me enfoco en la **arquitectura de software de alta calidad** y la creación de **código limpio**, plasmando estas habilidades en mi portafolio personal [nicodev.com](https://nicodev.com), una aplicación full-stack desarrollada con FastAPI y Next.js.
+Programador Full-Stack (Python & Next.js) apasionado por construir **soluciones web robustas y escalables**. Me enfoco en la **arquitectura de software de alta calidad** y la creación de **código limpio**, plasmando estas habilidades en mi portafolio personal [nicodev.com](https://nikoidev.com), una aplicación full-stack desarrollada con FastAPI y Next.js.
 
 Busco aportar valor en un rol desafiante que combine el **desarrollo web con la aplicación de tecnologías de IA**, donde pueda seguir creciendo profesionalmente mientras contribuyo a proyectos innovadores.
 
