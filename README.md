@@ -4,12 +4,12 @@
 
 ### Programador Full-Stack Python | Especialista en Arquitectura de Software & IA
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nicodev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikoidev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikoi18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikoi18)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikoidev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran.nick15@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34608898454)
-[![Llamadas](https://img.shields.io/badge/Llamadas-00897B?style=for-the-badge&logo=phone&logoColor=white)](tel:+34608898454)
+[![Llamadas](https://img.shields.io/badge/+34_608_89_84_54-00897B?style=for-the-badge&logo=phone&logoColor=white)](tel:+34608898454)
 
 </div>
 
@@ -78,31 +78,45 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 
 ## 🎯 Proyectos Destacados
 
-### 🌐 [Web Empresa - CMS Full-Stack & Portal Web Dinámico](https://github.com/Nikoi18/WebEmpresaFase1)
+### 🌐 [Portfolio Profesional - Sistema CMS Completo](https://github.com/nikoidev/Portafolio) | [Demo en vivo](https://nikoidev.com)
 
-**Arquitectura principal de un CMS empresarial completo**
+**Sistema de portafolio web profesional full-stack con gestión completa de contenido**
 
-Diseñé y construí una **API RESTful segura con FastAPI y JWT**, junto con un portal dinámico y panel de administración con **TypeScript**. Gestioné bases de datos **PostgreSQL** con migraciones **Alembic** y orquesté todo el entorno con **Docker**, asegurando un despliegue consistente y documentando el proceso para garantizar la calidad del proyecto.
+Desarrollé una plataforma completa de portafolio que incluye **sistema de gestión de contenido (CMS)**, **autenticación con control de acceso basado en roles** (4 niveles), **gestión de proyectos con demos interactivos**, **generación automática de CV en PDF**, y **sistema de gestión de archivos multimedia**. La arquitectura implementa **API RESTful con FastAPI y JWT** en el backend, frontend con **Next.js 14 y TypeScript**, base de datos **PostgreSQL** con migraciones Alembic, y orquestación completa con **Docker**. Incluye documentación exhaustiva para despliegue en producción (Vercel + Railway + Supabase).
+
+**Tecnologías:** Python, FastAPI, SQLAlchemy, Next.js 14, React, TypeScript, Tailwind CSS, PostgreSQL, Docker, JWT, Alembic, Zustand
+
+**Características:** Sistema de autenticación completo, panel de administración, gestión de proyectos, generación de CV, upload de archivos, diseño responsive, deployment documentado
+
+---
+
+### 🏢 [Web Empresa - CMS Empresarial & Portal Dinámico](https://github.com/nikoidev/WebEmpresaFase1)
+
+**Arquitectura principal de un CMS empresarial completo para gestión de contenido web**
+
+Diseñé y construí la **arquitectura base de un CMS empresarial** con **API RESTful segura con FastAPI y JWT**, junto con un **portal web dinámico** y **panel de administración completo** utilizando **Next.js y TypeScript**. Implementé gestión robusta de bases de datos **PostgreSQL** con sistema de migraciones **Alembic**, orquestación del entorno completo con **Docker y Docker Compose**, y documentación técnica detallada para garantizar la mantenibilidad y calidad del proyecto. El sistema permite a las empresas gestionar su contenido web de forma dinámica y segura.
 
 **Tecnologías:** Python, FastAPI, SQLAlchemy, Next.js, React, TypeScript, PostgreSQL, Docker, Docker Compose, JWT, Alembic
 
-🔗 Todo el ciclo de vida del proyecto fue potenciado mediante el **uso de IA generativa**, donde actué como arquitecto dirigiendo la implementación y validando el código.
+**Características:** Panel de administración, gestión de contenido dinámico, autenticación JWT, validación de datos, arquitectura escalable
+
+🔗 Ambos proyectos fueron potenciados mediante el **uso estratégico de IA generativa**, donde actué como arquitecto de software dirigiendo la implementación, validando el código y asegurando las mejores prácticas.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikoi18&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoi18&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikoidev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoidev&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikoi18&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikoidev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikoi18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikoidev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" />
 </p>
 
 ---
