@@ -9,7 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikoidev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran.nick15@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34608898454)
-[![Llamadas](https://img.shields.io/badge/+34_608_89_84_54-00897B?style=for-the-badge&logo=phone&logoColor=white)](tel:+34608898454)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikoidev&style=for-the-badge&color=58a6ff&label=VISITAS+AL+PERFIL)
 
 </div>
 
@@ -24,9 +25,10 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 ### 💡 Highlights
 
 - 🎓 **Especialización en Inteligencia Artificial** - Tokio School (2025)
-- 🏆 **2 años de experiencia** en desarrollo Full-Stack
+- 🏆 **+2 años de experiencia** en desarrollo Full-Stack
 - 🔧 Experto en **Python, FastAPI, Next.js, TypeScript, Docker**
 - 🤖 Uso estratégico de **IAs generativas** para acelerar el desarrollo y mejorar la calidad del código
+- 🏢 Experiencia en equipo en **Nexeus Big Data Campus** — proyectos de datos y plataformas empresariales
 - 📚 Arquitectura de Software, API RESTful, Testing (Unitario y de Integración), CI/CD, SCRUM/JIRA
 
 ---
@@ -47,6 +49,7 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -71,6 +74,7 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Inteligencia Artificial
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_4-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
 
@@ -78,29 +82,37 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 
 ## 🎯 Proyectos Destacados
 
-### 🌐 [Portfolio Profesional - Sistema CMS Completo](https://github.com/nikoidev/Portafolio) | [Demo en vivo](https://nikoidev.com)
+### 🌐 [Portfolio Profesional — CMS Full-Stack](https://github.com/nikoidev/Portafolio) | [Demo en vivo](https://nikoidev.com)
 
-**Sistema de portafolio web profesional full-stack con gestión completa de contenido**
+**Sistema de portafolio web profesional con gestión completa de contenido**
 
-Desarrollé una plataforma completa de portafolio que incluye **sistema de gestión de contenido (CMS)**, **autenticación con control de acceso basado en roles** (4 niveles), **gestión de proyectos con demos interactivos**, **generación automática de CV en PDF**, y **sistema de gestión de archivos multimedia**. La arquitectura implementa **API RESTful con FastAPI y JWT** en el backend, frontend con **Next.js 14 y TypeScript**, base de datos **PostgreSQL** con migraciones Alembic, y orquestación completa con **Docker**. Incluye documentación exhaustiva para despliegue en producción (Vercel + Railway + Supabase).
+Plataforma completa que incluye **CMS**, **autenticación con control de acceso basado en roles** (4 niveles), **gestión de proyectos con demos interactivos**, **generación automática de CV en PDF** y **sistema de gestión de archivos multimedia**. Backend con **FastAPI + JWT**, frontend con **Next.js 14 + TypeScript**, base de datos **PostgreSQL** con migraciones Alembic, orquestación con **Docker** y documentación completa para despliegue en producción (Vercel + Railway + Supabase).
 
-**Tecnologías:** Python, FastAPI, SQLAlchemy, Next.js 14, React, TypeScript, Tailwind CSS, PostgreSQL, Docker, JWT, Alembic, Zustand
-
-**Características:** Sistema de autenticación completo, panel de administración, gestión de proyectos, generación de CV, upload de archivos, diseño responsive, deployment documentado
+`Python` `FastAPI` `SQLAlchemy` `Next.js 14` `TypeScript` `Tailwind CSS` `PostgreSQL` `Docker` `JWT` `Alembic` `Zustand`
 
 ---
 
-### 🏢 [Web Empresa - CMS Empresarial & Portal Dinámico](https://github.com/nikoidev/WebEmpresaFase1)
+### 🏢 [Sistema Educativo Digital (SED)](https://github.com/nikoidev/SED)
 
-**Arquitectura principal de un CMS empresarial completo para gestión de contenido web**
+**Plataforma educativa integral con arquitectura de roles jerárquicos**
 
-Diseñé y construí la **arquitectura base de un CMS empresarial** con **API RESTful segura con FastAPI y JWT**, junto con un **portal web dinámico** y **panel de administración completo** utilizando **Next.js y TypeScript**. Implementé gestión robusta de bases de datos **PostgreSQL** con sistema de migraciones **Alembic**, orquestación del entorno completo con **Docker y Docker Compose**, y documentación técnica detallada para garantizar la mantenibilidad y calidad del proyecto. El sistema permite a las empresas gestionar su contenido web de forma dinámica y segura.
+Sistema educativo diseñado para instituciones de nivel primario y secundario. Implementa una **jerarquía de 7 roles** (Admin → Director → Sub-director → Coordinador → Profesor → Personal Administrativo → Alumnos/Representantes), **sistema de permisos dinámicos** configurable desde panel de control, **gestión completa de notas y evaluaciones**, **constructor de páginas** integrado para personalización del sitio, y **configuración flexible por año escolar** (semestres, lapsos o trimestres).
 
-**Tecnologías:** Python, FastAPI, SQLAlchemy, Next.js, React, TypeScript, PostgreSQL, Docker, Docker Compose, JWT, Alembic
+`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `REST API`
 
-**Características:** Panel de administración, gestión de contenido dinámico, autenticación JWT, validación de datos, arquitectura escalable
+---
 
-🔗 Ambos proyectos fueron potenciados mediante el **uso estratégico de IA generativa**, donde actué como arquitecto de software dirigiendo la implementación, validando el código y asegurando las mejores prácticas.
+### 🏢 [Web Empresa — CMS Empresarial & Portal Dinámico](https://github.com/nikoidev/WebEmpresaFase1) | [Fase 2](https://github.com/nikoidev/WebEmpresaFase2)
+
+**Arquitectura de CMS empresarial completo — desarrollado en 2 fases evolutivas**
+
+Diseñé y construí la **arquitectura base de un CMS empresarial** con **API RESTful segura con FastAPI y JWT**, **portal web dinámico** y **panel de administración completo** con Next.js y TypeScript. La Fase 2 extiende la arquitectura con nuevas funcionalidades y mejoras de escalabilidad. Gestión robusta de **PostgreSQL** con Alembic, orquestación con **Docker Compose** y documentación técnica detallada.
+
+`Python` `FastAPI` `SQLAlchemy` `Next.js` `TypeScript` `PostgreSQL` `Docker` `Docker Compose` `JWT` `Alembic`
+
+---
+
+🔗 Todos los proyectos fueron potenciados mediante **uso estratégico de IA generativa**, donde actué como arquitecto de software dirigiendo la implementación, validando el código y asegurando las mejores prácticas.
 
 ---
 
@@ -136,6 +148,7 @@ Diseñé y construí la **arquitectura base de un CMS empresarial** con **API RE
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
