@@ -20,22 +20,25 @@
 
 **Desarrollador Full-Stack** especializado en **Python (FastAPI/Django)** y **Next.js/React**, con foco en **arquitectura de software de calidad**, **código limpio** y **APIs seguras**. Diseño y construyo aplicaciones web completas —de la base de datos al frontend— y llevo soluciones hasta producción con Docker y CI/CD.
 
-> 🟢 **Actualmente** trabajo en **[Oficomputer](https://www.oficomputer.com)** desarrollando software a medida e **integraciones con un ERP empresarial** (SQL Server / Access) para clientes reales.
+**Perfil híbrido:** además del desarrollo, cuento con **+5 años en soporte técnico informático**, lo que me da una visión muy cercana del usuario final y una capacidad de **resolución de problemas** poco habitual en un perfil puramente de desarrollo.
+
+> 🟢 **Actualmente** trabajo en **[Oficomputer](https://www.oficomputer.com)** como **Soporte Técnico y Desarrollador Full-Stack**, creando software a medida e **integraciones con un ERP empresarial** (SQL Server / Access) para clientes reales.
 
 **¿Qué puedo aportar?**
 - 🏗️ Diseño de **arquitecturas full-stack** mantenibles (backend API + frontend SPA/SSR).
 - 🔐 **Autenticación y roles** (JWT), APIs RESTful y modelado de datos relacional.
 - 🔄 **Integraciones con sistemas legados/ERP** y migraciones de aplicaciones antiguas a stacks modernos.
 - 🚀 **Despliegue en producción**: Docker, migraciones, empaquetado e instaladores.
+- 🛠️ **+5 años de soporte técnico** (varias empresas): incidencias, redes, hardware/software y atención directa a clientes.
 - 🤖 Uso estratégico de **IA generativa** para acelerar el desarrollo sin renunciar a la calidad.
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### 🏢 Oficomputer — *Desarrollador Full-Stack* · `2026 – Actualidad`
+### 🏢 Oficomputer — *Soporte Técnico y Desarrollador Full-Stack* · `2026 – Actualidad`
 
-Desarrollo de **software a medida e integraciones con un ERP empresarial** (SQL Server / Access) para clientes reales. Trabajo de extremo a extremo: backend, frontend, base de datos y despliegue. Los proyectos son **privados**; este es un resumen del trabajo realizado:
+**Soporte técnico** a clientes (incidencias, sistemas y redes) y **desarrollo de software a medida e integraciones con un ERP empresarial** (SQL Server / Access). Trabajo de extremo a extremo: backend, frontend, base de datos y despliegue. Los proyectos de desarrollo son **privados**; este es un resumen del trabajo realizado:
 
 #### 🚚 ERP web para una cooperativa de transportes
 Gestión de cargas/portes con **motor de riesgo y crédito de clientes** (semáforo, puntuación 0-100, límites automáticos), catálogos, **trazabilidad por QR**, liquidaciones a transportistas, dashboard y job diario de reevaluación. Sincronización en **solo lectura** con el financiero del ERP.
@@ -163,7 +166,7 @@ Arquitectura de **CMS empresarial** desarrollada en 2 fases: **API RESTful segur
 
 - 🎯 **Especialización en Inteligencia Artificial** — Tokio School, España (2025)
 - 💻 **Programador Python** — Tokio School, España (2024-2025)
-- 🎓 **TSU en Informática** — Universidad Ludovico Silva, Monagas, Venezuela (2013-2016)
+- 🎓 **Técnico Superior en Informática** — Universidad Ludovico Silva, Monagas, Venezuela (2013-2016)
 
 **Cursos complementarios (DevTalles / Udemy):** Python-Django · Docker · PostgreSQL · TypeScript · Next.js · LangChain
 
