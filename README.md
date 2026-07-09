@@ -4,9 +4,9 @@
 
 ### Programador Full-Stack Python | Especialista en Arquitectura de Software & IA
 
+[![Actualmente en Oficomputer](https://img.shields.io/badge/🟢_Actualmente-Oficomputer-2ea44f?style=for-the-badge)](https://www.oficomputer.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikoidev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikoi18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikoidev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aran.nick15@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34608898454)
 
@@ -18,18 +18,55 @@
 
 ## 🚀 Sobre mí
 
-Programador Full-Stack (Python & Next.js) apasionado por construir **soluciones web robustas y escalables**. Me enfoco en la **arquitectura de software de alta calidad** y la creación de **código limpio**, plasmando estas habilidades en mi portafolio personal [nikoidev.com](https://nikoidev.com), una aplicación full-stack desarrollada con FastAPI y Next.js.
+Programador **Full-Stack (Python & Next.js)** apasionado por construir **soluciones web robustas y escalables**. Me enfoco en la **arquitectura de software de alta calidad** y el **código limpio**, algo que plasmo en mi portafolio personal [nikoidev.com](https://nikoidev.com), una aplicación full-stack desarrollada con FastAPI y Next.js.
 
-Busco aportar valor en un rol desafiante que combine el **desarrollo web con la aplicación de tecnologías de IA**, donde pueda seguir creciendo profesionalmente mientras contribuyo a proyectos innovadores.
+> 🟢 **Actualmente** trabajo en **[Oficomputer](https://www.oficomputer.com)**, desarrollando software a medida e **integraciones con el ERP AniwinNet** (SQL Server / Access) para clientes reales.
 
 ### 💡 Highlights
 
-- 🎓 **Especialización en Inteligencia Artificial** - Tokio School (2025)
+- 🏢 **Desarrollador Full-Stack en Oficomputer** — software a medida + integraciones ERP AniwinNet
+- 🎓 **Especialización en Inteligencia Artificial** — Tokio School (2025)
 - 🏆 **+2 años de experiencia** en desarrollo Full-Stack
 - 🔧 Experto en **Python, FastAPI, Next.js, TypeScript, Docker**
-- 🤖 Uso estratégico de **IAs generativas** para acelerar el desarrollo y mejorar la calidad del código
-- 🏢 Experiencia en equipo en **Nexeus Big Data Campus** — proyectos de datos y plataformas empresariales
-- 📚 Arquitectura de Software, API RESTful, Testing (Unitario y de Integración), CI/CD, SCRUM/JIRA
+- 🤖 Uso estratégico de **IAs generativas** para acelerar el desarrollo y elevar la calidad del código
+- 🧑‍💻 Experiencia previa en equipo en **Nexeus Big Data Campus** — proyectos de datos y plataformas empresariales
+- 📚 Arquitectura de Software, API RESTful, Testing (unitario e integración), CI/CD, SCRUM/JIRA
+
+---
+
+## 💼 Experiencia actual — Oficomputer
+
+> 🟢 **Rol actual.** Desarrollo de **software a medida e integraciones con el ERP AniwinNet** (SQL Server / Access) para clientes reales. Los siguientes proyectos son **privados**; incluyo un resumen del trabajo.
+
+#### 🚚 ERP web para una cooperativa de transportes
+
+Gestión de cargas/portes con **motor de riesgo y crédito de clientes** (semáforo, puntuación 0-100, límites automáticos), catálogos, **trazabilidad por QR**, liquidaciones a transportistas, dashboard y job diario de reevaluación. Sincronización en **solo lectura** con el financiero de AniwinNet.
+
+`FastAPI` `SQLAlchemy 2 (async)` `PostgreSQL` `Alembic` `Vue 3` `TypeScript` `PrimeVue` `APScheduler` `Docker`
+
+#### 🔄 Migración de una aplicación legada de portes
+
+Modernización de una app **VB6 + Access + Crystal Reports** a un stack actual, empaquetada como **instalador Windows autónomo** (`.exe`) que no requiere Python ni Node en el equipo del cliente.
+
+`FastAPI (32-bit)` `SQLite` `React` `Vite` `Cython` `PyInstaller` `Inno Setup` `pyodbc`
+
+#### 📥 Importador idempotente CSV/JSON → AniwinNet
+
+Carga inteligente que **no duplica, no pisa ni sobrescribe** registros ajenos, con perfiles de mapeo, **dry-run** de solo lectura y escritura transaccional. Desplegable por cliente sin tocar código.
+
+`Streamlit` `SQLAlchemy 2` `pyodbc` `PyYAML` `Pydantic v2` `pandas`
+
+#### 🔐 Emisor central de licencias firmadas
+
+App de escritorio interna que emite **licencias RSA (SHA-256)** por producto, con registro de trazabilidad de lo emitido.
+
+`Python` `Tkinter` `rsa`
+
+#### 🧩 Plantilla *starter* AniwinNet
+
+Base reutilizable (conexión, maestros, riesgo de crédito y exportación a albaranes) para desarrollar rápido nuevos inyectores de datos sobre el ERP.
+
+`FastAPI` `SQLAlchemy` `Alembic` `React` `TypeScript`
 
 ---
 
@@ -40,12 +77,12 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-1f6feb?style=for-the-badge&logo=python&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
-![APScheduler](https://img.shields.io/badge/APScheduler-1f6feb?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Frontend
@@ -93,67 +130,36 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 
 ## 🎯 Proyectos Destacados
 
-### 🌐 [Portfolio Profesional — CMS Full-Stack](https://github.com/nikoidev/Portafolio) | [Demo en vivo](https://nikoidev.com)
+> Selección de proyectos **personales y públicos**. La experiencia profesional (privada) está más arriba.
 
-**Sistema de portafolio web profesional con gestión completa de contenido**
+### 🌐 [Portfolio Profesional — CMS Full-Stack](https://github.com/nikoidev/Portafolio) · [Demo en vivo](https://nikoidev.com)
 
-Plataforma completa que incluye **CMS**, **autenticación con control de acceso basado en roles** (4 niveles), **gestión de proyectos con demos interactivos**, **generación automática de CV en PDF** y **sistema de gestión de archivos multimedia**. Backend con **FastAPI + JWT**, frontend con **Next.js 14 + TypeScript**, base de datos **PostgreSQL** con migraciones Alembic, orquestación con **Docker** y documentación completa para despliegue en producción (Vercel + Railway + Supabase).
+**Sistema de portafolio web profesional con gestión completa de contenido.**
+Plataforma con **CMS**, **control de acceso basado en roles** (4 niveles), **gestión de proyectos con demos interactivos**, **generación automática de CV en PDF** y **gestión de archivos multimedia**. Backend **FastAPI + JWT**, frontend **Next.js 14 + TypeScript**, **PostgreSQL** con migraciones Alembic, orquestación con **Docker** y despliegue en producción (Vercel + Railway + Supabase).
 
 `Python` `FastAPI` `SQLAlchemy` `Next.js 14` `TypeScript` `Tailwind CSS` `PostgreSQL` `Docker` `JWT` `Alembic` `Zustand`
 
 ---
 
-### 🏢 [Sistema Educativo Digital (SED)](https://github.com/nikoidev/SED)
+### 🏫 [Sistema Educativo Digital (SED)](https://github.com/nikoidev/SED)
 
-**Plataforma educativa integral con arquitectura de roles jerárquicos**
-
-Sistema educativo diseñado para instituciones de nivel primario y secundario. Implementa una **jerarquía de 7 roles** (Admin → Director → Sub-director → Coordinador → Profesor → Personal Administrativo → Alumnos/Representantes), **sistema de permisos dinámicos** configurable desde panel de control, **gestión completa de notas y evaluaciones**, **constructor de páginas** integrado para personalización del sitio, y **configuración flexible por año escolar** (semestres, lapsos o trimestres).
+**Plataforma educativa integral con arquitectura de roles jerárquicos.**
+Diseñada para instituciones de primaria y secundaria: **jerarquía de 7 roles** (Admin → Director → Sub-director → Coordinador → Profesor → Personal Administrativo → Alumnos/Representantes), **permisos dinámicos** configurables desde panel, **gestión de notas y evaluaciones**, **constructor de páginas** integrado y **configuración flexible por año escolar** (semestres, lapsos o trimestres).
 
 `Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `REST API`
 
 ---
 
-### 🏢 [Web Empresa — CMS Empresarial & Portal Dinámico](https://github.com/nikoidev/WebEmpresaFase1) | [Fase 2](https://github.com/nikoidev/WebEmpresaFase2)
+### 🏢 [Web Empresa — CMS Empresarial & Portal Dinámico](https://github.com/nikoidev/WebEmpresaFase1) · [Fase 2](https://github.com/nikoidev/WebEmpresaFase2)
 
-**Arquitectura de CMS empresarial completo — desarrollado en 2 fases evolutivas**
-
-Diseñé y construí la **arquitectura base de un CMS empresarial** con **API RESTful segura con FastAPI y JWT**, **portal web dinámico** y **panel de administración completo** con Next.js y TypeScript. La Fase 2 extiende la arquitectura con nuevas funcionalidades y mejoras de escalabilidad. Gestión robusta de **PostgreSQL** con Alembic, orquestación con **Docker Compose** y documentación técnica detallada.
+**Arquitectura de CMS empresarial completo, desarrollado en 2 fases evolutivas.**
+Diseño y construcción de la **arquitectura base**: **API RESTful segura con FastAPI y JWT**, **portal web dinámico** y **panel de administración** con Next.js y TypeScript. La Fase 2 amplía funcionalidades y mejora la escalabilidad. **PostgreSQL** con Alembic y orquestación con **Docker Compose**.
 
 `Python` `FastAPI` `SQLAlchemy` `Next.js` `TypeScript` `PostgreSQL` `Docker` `Docker Compose` `JWT` `Alembic`
 
 ---
 
-🔗 Todos los proyectos fueron potenciados mediante **uso estratégico de IA generativa**, donde actué como arquitecto de software dirigiendo la implementación, validando el código y asegurando las mejores prácticas.
-
----
-
-## 💼 Experiencia profesional — Oficomputer
-
-Desarrollo de **software a medida e integraciones con el ERP AniwinNet** (SQL Server / Access) para
-clientes reales. Proyectos privados; a continuación un resumen del trabajo:
-
-- **ERP web para cooperativa de transportes** — Gestión de cargas/portes con **motor de riesgo y
-  crédito de clientes** (semáforo, puntuación 0-100, límites automáticos), catálogos, trazabilidad
-  por QR, liquidaciones a transportistas, dashboard y job diario de reevaluación. Sincronización en
-  solo lectura con el financiero de AniwinNet.
-  `FastAPI` `SQLAlchemy 2 async` `PostgreSQL` `Alembic` `Vue 3` `TypeScript` `PrimeVue` `APScheduler` `Docker`
-
-- **Migración de aplicación legada de portes** (VB6 + Access + Crystal Reports) a un stack moderno,
-  empaquetada como instalador Windows autónomo (`.exe`).
-  `FastAPI (32-bit)` `SQLite` `React` `Vite` `Cython` `PyInstaller` `Inno Setup` `pyodbc`
-
-- **Importador idempotente CSV/JSON → AniwinNet** — Carga inteligente que no duplica, no pisa ni
-  sobrescribe registros ajenos, con perfiles de mapeo, dry-run de solo lectura y escritura
-  transaccional. Desplegable por cliente sin tocar código.
-  `Streamlit` `SQLAlchemy 2` `pyodbc` `PyYAML` `Pydantic v2` `pandas`
-
-- **Emisor central de licencias firmadas** — App de escritorio interna que emite licencias RSA
-  (SHA-256) por producto, con registro de trazabilidad.
-  `Python` `Tkinter` `rsa`
-
-- **Plantilla *starter* AniwinNet** — Base reutilizable (conexión, maestros, riesgo y exportación a
-  albaranes) para desarrollar rápido nuevos inyectores de datos sobre el ERP.
-  `FastAPI` `SQLAlchemy` `Alembic` `React` `TypeScript`
+🔗 En estos proyectos apliqué **uso estratégico de IA generativa**, actuando como **arquitecto de software**: dirigí la implementación, validé el código y aseguré las mejores prácticas.
 
 ---
 
@@ -176,9 +182,9 @@ clientes reales. Proyectos privados; a continuación un resumen del trabajo:
 
 ## 🎓 Formación
 
-- 🎯 **Especialización en Inteligencia Artificial** - Tokio School, España (2025)
-- 💻 **Programador Python** - Tokio School, España (2024-2025)
-- 🎓 **TSU en Informática** - Universidad Ludovico Silva-Monagas, Venezuela (2013-2016)
+- 🎯 **Especialización en Inteligencia Artificial** — Tokio School, España (2025)
+- 💻 **Programador Python** — Tokio School, España (2024-2025)
+- 🎓 **TSU en Informática** — Universidad Ludovico Silva, Monagas, Venezuela (2013-2016)
 
 ### 📚 Cursos Complementarios en DevTalles y Udemy
 
