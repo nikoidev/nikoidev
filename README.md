@@ -140,25 +140,45 @@ Experiencia trabajando **en equipo** en proyectos de **datos y plataformas empre
 
 ## 🎯 Proyectos Destacados
 
-> Selección de proyectos **personales y públicos** (la experiencia profesional, privada, está más arriba).
+> Mis **10 mejores proyectos**, seleccionados entre repositorios públicos y privados.
+> **🌐 público** (con enlace) · **🔒 privado** (código no público; puedo mostrarlo en una entrevista).
+> Los proyectos de cliente desarrollados en Oficomputer están detallados en [💼 Experiencia Profesional](#-experiencia-profesional).
 
-### 🌐 [Portfolio Profesional — CMS Full-Stack](https://github.com/nikoidev/Portafolio) · [Demo en vivo](https://nikoidev.com)
+### 🧩 Aplicaciones Full-Stack de Gestión · FastAPI + Next.js/Vue + PostgreSQL
 
-Plataforma web profesional con **CMS**, **control de acceso por roles** (4 niveles), **gestión de proyectos con demos interactivos**, **generación automática de CV en PDF** y **gestión de archivos multimedia**. Backend **FastAPI + JWT**, frontend **Next.js 14 + TypeScript**, **PostgreSQL** con Alembic y despliegue en producción (Vercel + Railway + Supabase).
+- 🌐 **[Portfolio Profesional](https://github.com/nikoidev/Portafolio)** · [Demo en vivo](https://nikoidev.com) — Portafolio web con **CMS**, control de acceso por roles, **demos interactivas**, generación automática de **CV en PDF** y gestión multimedia. Desplegado en producción (Vercel + Railway + Supabase).
+  `FastAPI` `Next.js 14` `TypeScript` `PostgreSQL` `Docker` `JWT`
 
-`Python` `FastAPI` `SQLAlchemy` `Next.js 14` `TypeScript` `Tailwind CSS` `PostgreSQL` `Docker` `JWT` `Alembic` `Zustand`
+- 🌐 **[SGA Pro — Gestión de Almacenes](https://github.com/nikoidev/Almacen)** — Sistema de **control de inventario en tiempo real** con RBAC, productos, proveedores, ubicaciones, envíos de entrada/salida y **audit log** detallado. Con CI en backend y frontend.
+  `FastAPI` `Next.js` `TypeScript` `PostgreSQL`
 
-### 🏫 [Sistema Educativo Digital (SED)](https://github.com/nikoidev/SED)
+- 🌐 **[Excavaciones Maella — CMS](https://github.com/nikoidev/vimes)** — **CMS a medida** para una empresa de excavaciones: autenticación JWT, **permisos granulares (RBAC)** y panel de administración completo. Cobertura de tests ~78%.
+  `FastAPI` `Next.js` `TypeScript` `PostgreSQL`
 
-Plataforma educativa para primaria y secundaria: **jerarquía de 7 roles**, **permisos dinámicos** configurables desde panel, **gestión de notas y evaluaciones**, **constructor de páginas** integrado y **configuración flexible por año escolar** (semestres, lapsos o trimestres).
+- 🔒 **Nimiq — CMS para Agencia Web & IA** *(privado)* — Plataforma **CMS full-stack** para una agencia de desarrollo web y automatización con IA: contenido editable desde el panel, roles de 4 niveles, gestión de proyectos con demos y **pricing por país**.
+  `FastAPI` `Next.js 14` `TypeScript` `PostgreSQL`
 
-`Python` `Django` `PostgreSQL` `HTML` `CSS` `JavaScript` `REST API`
+- 🌐 **[Base Universal de Usuarios y Roles](https://github.com/nikoidev/Usuarios)** — Base **lista para producción** de gestión de usuarios, roles y permisos (RBAC), con **CI/CD, escaneo de seguridad y 86% de cobertura** de tests. Punto de partida reutilizable para nuevos proyectos.
+  `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `CI/CD`
 
-### 🏢 [Web Empresa — CMS Empresarial](https://github.com/nikoidev/WebEmpresaFase1) · [Fase 2](https://github.com/nikoidev/WebEmpresaFase2)
+- 🌐 **[Web Empresa — CMS Empresarial](https://github.com/nikoidev/WebEmpresaFase1)** — CMS empresarial con **sitio público dinámico** y **panel de administración avanzado**, orquestado con Docker.
+  `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Docker`
 
-Arquitectura de **CMS empresarial** desarrollada en 2 fases: **API RESTful segura con FastAPI y JWT**, **portal web dinámico** y **panel de administración** con Next.js y TypeScript. **PostgreSQL** con Alembic y orquestación con **Docker Compose**.
+### 🎓 Plataformas Educativas
 
-`Python` `FastAPI` `SQLAlchemy` `Next.js` `TypeScript` `PostgreSQL` `Docker` `JWT` `Alembic`
+- 🔒 **SGE — Sistema de Gestión Educativa** *(privado)* — Sistema completo para instituciones educativas con **arquitectura multi-tenant**, RBAC, gestión de estudiantes/docentes/representantes, **calificaciones** (escala venezolana, 3 lapsos) y **módulo CMS con sitio público por institución**.
+  `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Multi-tenant`
+
+- 🔒 **SED — Sistema Educativo Digital** *(privado)* — Plataforma educativa con **jerarquía de 7 roles**, permisos dinámicos configurables desde panel, **gestión de notas y evaluaciones**, constructor de páginas y **año escolar configurable** (semestres, lapsos o trimestres).
+  `Python` `Django/FastAPI` `TypeScript` `PostgreSQL`
+
+### 🐍 Django & 🤖 Inteligencia Artificial
+
+- 🌐 **[WebRecetas](https://github.com/nikoidev/WebRecetas)** — App full-stack de recetas: **API RESTful con Django REST Framework + JWT** y **SPA en Vue.js con Pinia** para gestionar recetas, ingredientes y usuarios.
+  `Django` `DRF` `Vue.js` `Pinia` `JWT`
+
+- 🌐 **[Sistema Multi-Agente de IA](https://github.com/nikoidev/prueba_zebra)** — Sistema en Python que **descompone una solicitud compleja en subtareas**, coordina **agentes especializados** mediante un orquestador (máquina de estados) y produce una respuesta estructurada, validada y **trazable**.
+  `Python` `Multi-Agente` `Orquestación` `Vue`
 
 ---
 
