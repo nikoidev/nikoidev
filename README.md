@@ -44,19 +44,26 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-1f6feb?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=primefaces&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Base de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,9 +71,13 @@ Busco aportar valor en un rol desafiante que combine el **desarrollo web con la 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-2C2255?style=for-the-badge&logo=python&logoColor=white)
+![Inno Setup](https://img.shields.io/badge/Inno_Setup-264DE4?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Herramientas & Metodologías
 ![API RESTful](https://img.shields.io/badge/API_RESTful-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![pyodbc / ODBC](https://img.shields.io/badge/pyodbc_/_ODBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-25A162?style=for-the-badge&logo=pytest&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -113,6 +124,36 @@ Diseñé y construí la **arquitectura base de un CMS empresarial** con **API RE
 ---
 
 🔗 Todos los proyectos fueron potenciados mediante **uso estratégico de IA generativa**, donde actué como arquitecto de software dirigiendo la implementación, validando el código y asegurando las mejores prácticas.
+
+---
+
+## 💼 Experiencia profesional — Oficomputer
+
+Desarrollo de **software a medida e integraciones con el ERP AniwinNet** (SQL Server / Access) para
+clientes reales. Proyectos privados; a continuación un resumen del trabajo:
+
+- **ERP web para cooperativa de transportes** — Gestión de cargas/portes con **motor de riesgo y
+  crédito de clientes** (semáforo, puntuación 0-100, límites automáticos), catálogos, trazabilidad
+  por QR, liquidaciones a transportistas, dashboard y job diario de reevaluación. Sincronización en
+  solo lectura con el financiero de AniwinNet.
+  `FastAPI` `SQLAlchemy 2 async` `PostgreSQL` `Alembic` `Vue 3` `TypeScript` `PrimeVue` `APScheduler` `Docker`
+
+- **Migración de aplicación legada de portes** (VB6 + Access + Crystal Reports) a un stack moderno,
+  empaquetada como instalador Windows autónomo (`.exe`).
+  `FastAPI (32-bit)` `SQLite` `React` `Vite` `Cython` `PyInstaller` `Inno Setup` `pyodbc`
+
+- **Importador idempotente CSV/JSON → AniwinNet** — Carga inteligente que no duplica, no pisa ni
+  sobrescribe registros ajenos, con perfiles de mapeo, dry-run de solo lectura y escritura
+  transaccional. Desplegable por cliente sin tocar código.
+  `Streamlit` `SQLAlchemy 2` `pyodbc` `PyYAML` `Pydantic v2` `pandas`
+
+- **Emisor central de licencias firmadas** — App de escritorio interna que emite licencias RSA
+  (SHA-256) por producto, con registro de trazabilidad.
+  `Python` `Tkinter` `rsa`
+
+- **Plantilla *starter* AniwinNet** — Base reutilizable (conexión, maestros, riesgo y exportación a
+  albaranes) para desarrollar rápido nuevos inyectores de datos sobre el ERP.
+  `FastAPI` `SQLAlchemy` `Alembic` `React` `TypeScript`
 
 ---
 
